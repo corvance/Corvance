@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+##   🔭 I’m currently working on ...
+###      - Study
+###      - Small ML Projects
+
 
 <!--
 **Corvance/Corvance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
